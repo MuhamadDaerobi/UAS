@@ -1,0 +1,16 @@
+{
+    "name": "cilok-bu-iipeh",
+    "version": "1.0.0",
+    "description": "Proyek untuk tugas UAS Cilok Bu Iipeh",
+    "main": "src/app.js",
+    "scripts": {
+      "test": "jest --coverage"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    },
+    "dependencies": {},
+    "author": "",
+    "license": "ISC"
+  }
+  

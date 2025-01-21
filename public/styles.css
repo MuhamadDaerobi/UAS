@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  main {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #ff5722;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin: 10px 0 5px;
+  }
+  
+  input, select, button {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #ff5722;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #e64a19;
+  }
+  
+  #total-price {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* public/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    margin-left: 20px;
+  }
+  
+  #menuContainer {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  #total {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
